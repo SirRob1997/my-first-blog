@@ -1,0 +1,2 @@
+python -m venv myvenv - Setup Virtual Environment
+myvenv\Scripts\activate - Starts the Virtual Environment
